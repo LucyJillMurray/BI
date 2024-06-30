@@ -1,1 +1,1 @@
-![Alt text](https://github.com/LucyJillMurray/BI/blob/main/BI%20screenshot.png)
+![Alt text](https://github.com/LucyJillMurray/BI/blob/main/dashboard.png)
